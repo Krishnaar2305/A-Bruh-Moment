@@ -1,0 +1,45 @@
+{
+    "activeFile": "C:/pythonProject/2dgame/levels/ab..tsx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/pythonProject/2dgame/levels/ab..tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonProject/2dgame/levels/ground.tsx": {
+            "dynamicWrapping": true
+        },
+        "C:/pythonProject/2dgame/levels/level2/level2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 741,
+                "y": 696
+            }
+        },
+        "level3.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 799,
+                "y": 666
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/pythonProject/2dgame/levels/level3",
+    "last.imagePath": "C:/pythonProject/2dgame/images/ice level",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "level3.tmx",
+        "C:/pythonProject/2dgame/levels/ab..tsx"
+    ],
+    "project": "level33.tiled-project",
+    "recentFiles": [
+        "level3.tmx",
+        "C:/pythonProject/2dgame/levels/ab..tsx"
+    ]
+}
